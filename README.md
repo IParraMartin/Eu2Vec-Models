@@ -1,5 +1,5 @@
-# LSTM-GRU-Model 😇🧠
-Bidirectional LSTM-GRU Model to train a Basque word embedding
+# Eu2Vec Models 😇🧠
+Bidirectional LSTM-GRU Model to train a Basque sentiment analysis embedding layer
 
 ## Under construction
 - Validation test still poor
